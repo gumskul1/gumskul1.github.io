@@ -1,0 +1,67 @@
+main{
+	background-color: orange;
+}
+
+.leftaside{
+	background-color: blue;
+
+}
+
+.rightaside{
+	background-color: green;
+}
+
+.title{
+	text-align: center;
+}
+
+.article{
+	text-align: center;
+}
+
+
+.btn-warning{
+	background-color:red;
+}
+
+.navbar{
+	border-radius:0px;
+	border:0px;
+}
+
+
+
+.navbar-inverse {
+   background-color: blue;
+    border-color: #0e4807;
+}
+
+.myBtn{
+	background-color:red;
+}
+
+
+.video{
+	text-align: center;
+}
+
+.kontakit{
+	text-align: center;
+}
+
+.maps{
+	text-align: center;
+}
+
+.foto{
+	width: 800px;
+	margin: 0px auto;
+	color: black;
+	padding: 0px;
+	font-size: 25px;
+	position: relative;
+}
+
+.info{
+	text-align: center;
+}
